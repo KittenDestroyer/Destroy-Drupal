@@ -1,3 +1,7 @@
 [submodule "newSub"]
 	path = newSub
 	url = git://github.com/KittenDestroyer/newSub.git
+[submodule "sites/all/modules/admin_menu"]
+	path = sites/all/modules/admin_menu
+	url = git://git.drupal.org/project/admin_menu.git
+	branch = 7.x-3.x
