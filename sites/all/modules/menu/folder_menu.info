@@ -1,0 +1,12 @@
+name = Folder Menu
+description = "Folder Menu is a flash dynamic menu module."
+core = 7.x
+package = Navigation
+configure = admin/settings/folder_menu
+
+; Information added by drupal.org packaging script on 2013-10-01
+version = "7.x-1.1+1-dev"
+core = "7.x"
+project = "menu"
+datestamp = "1380586723"
+

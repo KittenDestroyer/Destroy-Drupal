@@ -1,0 +1,3 @@
+[submodule "newSub"]
+	path = newSub
+	url = git://github.com/KittenDestroyer/newSub.git
