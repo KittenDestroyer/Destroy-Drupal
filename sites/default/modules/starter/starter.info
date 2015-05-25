@@ -1,9 +1,0 @@
-;$Id$
-
-name = Starter
-description = A first module.
-package = Drupal 7 Development
-core = 7.x
-
-;dependencies[] = autoload
-;php = 5.2

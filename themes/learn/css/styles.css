@@ -1,0 +1,27 @@
+/*a:hover {
+  -ms-transform: scale(1.2,1.2);
+  -webkit-transform: scale(1.2,1.2) rotate(360deg);
+  transform: scale(1.2, 1.2) rotate(360deg);
+}
+a {
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  -webkit-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out;
+}*/
+.gunshot {
+  width:  50px;
+  height: 50px;
+  display: block;
+  position: absolute;
+  background-image: url(../gunshot.png);
+  background-size: cover;
+}
+.batman-sign {
+  width:  100px;
+  height: 50px;
+  display: block;
+  position: absolute;
+  background-image: url(../batman-sign.png);
+  background-size: cover;
+}
